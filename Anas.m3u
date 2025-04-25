@@ -9,10 +9,11 @@ EXTM3U
 #EXTINF:-1 tvg-id="1" group-title="Kids" tvg-language="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s",Hungama Tamil
 https://tamilultratv.co.in/master.m3u8?c=HUNGAMA_TAMIL&server=2|Referer=https://tamilultratv.co.in/
 
-
 #EXTINF:-1 tvg-id="ts1067" tvg-chno="56" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJ61K-8N3c5plhXMh1-PLm4yyGWn_unNubFquS8gHhl4abH9vbxgoe7nV&s=10" group-title="Anas IPL",Star Sports 1 Tamil HD
 https://streamsun.cloudflare-863.workers.dev/sungo/live/stream.m3u8?id=sptamil2|Referer=https://play.tamilbulbtv.live/
 
+#EXTINF:-1 tvg-id="ts1067" tvg-chno="56" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJ61K-8N3c5plhXMh1-PLm4yyGWn_unNubFquS8gHhl4abH9vbxgoe7nV&s=10" group-title="Anas IPL",Star Sports 1 Tamil HD
+https://cdn.vaanam24.com/STARSPORTTAMIL/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ts1067" tvg-chno="56" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="AiyooPL - 8088y", #2 Star Sports 1 Tamil HD
